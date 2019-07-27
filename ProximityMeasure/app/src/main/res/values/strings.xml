@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProximityMeasure</string>
+    <string name="finger_printing">Finger Printing</string>
+    <string name="modified_fspl">Modified FSPL</string>
+    <string name="transmititing_output_power">Transmititing Output Power</string>
+    <string name="lateration">Lateration</string>
+</resources>
