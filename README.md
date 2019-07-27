@@ -9,8 +9,11 @@ Extensive use of Wi-Fi compared to cellular data also to provide free and better
 TECHNIQUES USED:
 
 We have implemented the following 3 techniques:
+
 •	Radio Fingerprinting
+
 •	Modified FSPL
+
 •	Lateration
 
 
